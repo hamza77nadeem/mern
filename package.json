@@ -1,11 +1,10 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +14,15 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.12"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh17112000/crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harsh17112000/crud/issues"
+  },
+  "homepage": "https://github.com/harsh17112000/crud#readme",
+  "description": ""
 }
